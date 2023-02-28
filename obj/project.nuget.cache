@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n0ES0FOvru9oDCs3kEPI7EoXUxSbDsnhh9HI8AH1VIz4rSQi7TwQwvf/iEzkRxFH8Gi8cMS+ZFB82yi7eWBahg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BrayanE65\\Desktop\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BrayanE65\\.nuget\\packages\\microsoft.visualstudio.testplatform\\14.0.0\\microsoft.visualstudio.testplatform.14.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
